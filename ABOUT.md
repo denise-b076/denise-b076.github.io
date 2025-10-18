@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About"
-permalink: /about/
+permalink: /
 ---
 {% include navigation.html %}
 # Digital Identity
