@@ -16,3 +16,22 @@
 .site-navigation a[aria-current="page"] {
   text-decoration: underline;
 }
+
+.header-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.profile-pic {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.site-header-content {
+  display: flex;
+  flex-direction: column;
+}
+

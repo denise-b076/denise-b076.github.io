@@ -1,11 +1,17 @@
-<nav class="site-navigation" role="navigation" aria-label="Primary Navigation">
-  <ul>
-    {% for item in site.data.navigation %}
-      <li>
-        <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>
-          {{ item.title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</nav>
+<header class="site-header">
+  <div class="header-container">
+    <img src="{{ '/assets/img/IMG_4535.jpg' | relative_url }}" alt="Profile photo" class="profile-pic" />
+    <div class="site-header-content">
+      <h1 class="site-title"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+
+      <nav class="site-navigation" role="navigation" aria-label="Primary Navigation">
+        <ul>
+          {% for item in site.data.navigation %}
+            <li><a href="{{ item.url | relative_url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
