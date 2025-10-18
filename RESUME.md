@@ -3,6 +3,7 @@ layout: default
 title: "Resume"
 permalink: /resume/
 ---
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 {% include navigation.html %}
 # Career Snapshot
 ## Executive Summary

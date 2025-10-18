@@ -3,6 +3,7 @@ layout: default
 title: "About"
 permalink: /
 ---
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 {% include navigation.html %}
 # Digital Identity
 I am Denise Braithwaite, a student majoring in computer science at Brigham Young University. I care about using programming and software development to make life better for and serving others. 
