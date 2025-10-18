@@ -7,11 +7,11 @@ permalink: /portfolio/
 {% include navigation.html %}
 # Portfolio
 ## [TintHint](https://github.com/denise-b076/startup)
-A full stack application that can randomly generate colors, save them to a MongoDB database, and provide users with palettes created by other users most recently
+A full stack application using that can randomly generate colors, save them as palettes to a MongoDB database, and provide users with palettes created by other users most recently. 
 
 ---
 
 ## [Portfolio Website](https://denise-b076.github.io/)
-My personal website served through GitHub Pages showcasing my experience, skills, and achievements
+My personal website served through GitHub Pages that showcases my experience, skills, and achievements.
 
 
