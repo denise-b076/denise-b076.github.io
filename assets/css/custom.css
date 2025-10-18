@@ -1,9 +1,19 @@
+.site-header {
+  background-color: #2c3e50;
+  width: 100vw;      /* full viewport width */
+  position: relative; /* keep stacking context */
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
 .header-container {
   display: flex;
   align-items: center;
   gap: 2rem; /* spacing between image and nav */
   padding: 0.5rem 1rem;
-  background-color: #2c3e50;
+  /* background-color: #2c3e50; */
   width: 100%;
 }
 
