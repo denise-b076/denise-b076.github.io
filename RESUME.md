@@ -3,6 +3,7 @@ layout: default
 title: "Resume"
 permalink: /resume/
 ---
+{% include navigation.html %}
 # Career Snapshot
   ## Executive Summary
   
