@@ -12,6 +12,6 @@ A full stack application that can randomly generate colors, save them to a Mongo
 ---
 
 ## [Portfolio Website](https://denise-b076.github.io/)
-My personal website served throguh GitHub Pages showcasing my experience, skills, and achievements
+My personal website served through GitHub Pages showcasing my experience, skills, and achievements
 
 

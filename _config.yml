@@ -1,7 +1,6 @@
 theme: jekyll-theme-slate
 remote_theme: pages-themes/slate@v0.2.0
 title: Denise Braithwaite
-description: Bookmark this to keep an eye on my resume, contact information, and project updates!
 url: "https://denise-b076.github.io"
 baseurl: ""
 sass:
