@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "RESUME"
-permalink: /resume
+title: "Resume"
+permalink: /resume/
 ---
 # Career Snapshot
   ## Executive Summary
