@@ -1,9 +1,13 @@
+#header_wrap {
+  background-color: #2c3e50;
+}
+
 .header-container {
   display: flex;
   align-items: center;
   gap: 2rem; /* spacing between image and nav */
   padding: 0.5rem 1rem;
-  background-color: #2c3e50;
+  background-color: #2d2d2d;
   width: 100%;
 }
 
